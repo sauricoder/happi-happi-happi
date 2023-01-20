@@ -62,6 +62,3 @@ input.onLogoEvent(TouchButtonEvent.Touched, function () {
     music.startMelody(music.builtInMelody(Melodies.BaDing), MelodyOptions.Forever)
 })
 basic.showIcon(IconNames.Yes)
-basic.forever(function () {
-	
-})
